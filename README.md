@@ -9,52 +9,60 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student (GMIT Kolkata)
-- 🔭 Currently building **LifeTrackr – Full Stack Productivity Platform**
-- 🌱 Learning **Advanced Spring Boot & Backend System Design**
-- 🧠 Research Paper Co-Author (IEEE Conference)
+- 🎓 B.Tech CSE Student
+- 🔭 Currently working on **LifeTrackr (Full Stack Project)**
+- 🌱 Learning **Advanced Spring Boot & Backend Development**
+- 🧠 IEEE Research Paper Co-Author
 - 🏆 SIH Internal Hackathon Winner
-- 📫 Reach me at **pandeylucky7500@gmail.com**
+- 📫 Reach me: **pandeylucky7500@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Languages & Tools
 
-### 💻 Languages
-Java (Core Java, OOP, Collections) • TypeScript • JavaScript • Python • C
+<p align="left">
 
-### ⚙️ Backend
-Spring Boot • REST APIs • JPA/Hibernate • SQLite • SQL • Gradle
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://spring.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
 
-### 🎨 Frontend
-React (TypeScript) • HTML • CSS • Tailwind CSS • Bootstrap • Vanilla JS
-
-### 🧰 Tools & Platforms
-Git • GitHub • IntelliJ IDEA • VS Code • Postman • Vite
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 LifeTrackr – Full Stack Study Task Tracker
-- Built using Spring Boot + Vanilla JS
-- CRUD APIs, task status toggle, edit mode
-- SQLite integration with layered architecture
+### 🔹 LifeTrackr
+Full-stack study task tracker using **Spring Boot + SQLite + JavaScript**  
+CRUD APIs • Edit Mode • Status Toggle • Clean UX
 
-### 🔹 Teleport – Smart Travel Comparison Platform
-- React + TypeScript based travel comparison platform
-- Google Gemini AI powered travel assistant
-- Responsive UI with Tailwind CSS
+### 🔹 Teleport
+Smart travel comparison platform using **React + TypeScript + Gemini AI**
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckypandey6291&show_icons=true&locale=en&layout=compact" alt="luckypandey6291" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=luckypandey6291&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckypandey6291&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+I enjoy building real-world projects and solving backend problems 🚀
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luckypandey6291&show_icons=true&locale=en" alt="luckypandey6291" />
 </p>
 
