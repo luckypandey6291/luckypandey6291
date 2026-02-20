@@ -1,23 +1,67 @@
 <h1 align="center">Hi 👋, I'm Lucky Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Full-Stack Builder 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckypandey6291&label=Profile%20views&color=0e75b6&style=flat" alt="luckypandey6291" /> </p>
-
-- 🔭 I’m currently working on **Plutoz**
-
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **pandeylucky7500@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<img src="https://komarev.com/ghpvc/?username=luckypandey6291&label=Profile%20views&color=0e75b6&style=flat" alt="luckypandey6291" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckypandey6291&show_icons=true&locale=en&layout=compact" alt="luckypandey6291" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckypandey6291&show_icons=true&locale=en" alt="luckypandey6291" /></p>
+- 🎓 B.Tech CSE Student (GMIT Kolkata)
+- 🔭 Currently building **LifeTrackr – Full Stack Productivity Platform**
+- 🌱 Learning **Advanced Spring Boot & Backend System Design**
+- 🧠 Research Paper Co-Author (IEEE Conference)
+- 🏆 SIH Internal Hackathon Winner
+- 📫 Reach me at **pandeylucky7500@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+Java (Core Java, OOP, Collections) • TypeScript • JavaScript • Python • C
+
+### ⚙️ Backend
+Spring Boot • REST APIs • JPA/Hibernate • SQLite • SQL • Gradle
+
+### 🎨 Frontend
+React (TypeScript) • HTML • CSS • Tailwind CSS • Bootstrap • Vanilla JS
+
+### 🧰 Tools & Platforms
+Git • GitHub • IntelliJ IDEA • VS Code • Postman • Vite
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 LifeTrackr – Full Stack Study Task Tracker
+- Built using Spring Boot + Vanilla JS
+- CRUD APIs, task status toggle, edit mode
+- SQLite integration with layered architecture
+
+### 🔹 Teleport – Smart Travel Comparison Platform
+- React + TypeScript based travel comparison platform
+- Google Gemini AI powered travel assistant
+- Responsive UI with Tailwind CSS
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckypandey6291&show_icons=true&locale=en&layout=compact" alt="luckypandey6291" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckypandey6291&show_icons=true&locale=en" alt="luckypandey6291" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+I love building real projects, solving backend problems, and turning ideas into working products 🚀
+
 
 Support
